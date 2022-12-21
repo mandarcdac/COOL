@@ -1,3 +1,9 @@
 Hello world
+<<<<<<< HEAD
 de1
 now I am bugfix
+=======
+i am first change
+DE2
+DE1
+>>>>>>> 66ee5bb42c951f422a5ba10d849929a52db5496e
